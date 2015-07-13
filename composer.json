@@ -1,0 +1,17 @@
+{
+  "name": "miniche/redlink",
+  "description": "Simple PHP library to query Redshift clusters",
+  "type": "library",
+  "keywords": ["redshift","postgresql"],
+  "homepage": "https://github.com/miniche/redlink",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Charles-Emmanuel CAMUS",
+      "email": "che.camus@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
